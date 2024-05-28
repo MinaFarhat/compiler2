@@ -1,0 +1,117 @@
+Semantic Error: Variable 'x' already exists
+Semantic Error: Duplicate class name 'CardAnimalList'
+Semantic Error: Variable 'x' already exists
+Semantic Error: Duplicate class name 'CardAnimalList'
+Error in line 25:0 mismatched input 'sssssssssssssssssssss' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 31:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 34:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 37:26 mismatched input ';' expecting ','
+Error in line 37:26 mismatched input ';' expecting ','
+Error in line 24:10 mismatched input 'ssssssssssss' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 30:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 33:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 24:10 mismatched input 'ssssssssssss' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 30:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 33:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 29:25 mismatched input ';' expecting ','
+Error in line 16:6 mismatched input 'true' expecting INTEGER
+Error in line 1:0 mismatched input 'class' expecting 'void'
+Error in line 1:25 mismatched input 'Bindings' expecting TypeWidget
+Error in line 20:34 mismatched input ';' expecting ','
+Error in line 20:2 extraneous input 'ddddddddddd' expecting {'title', ')'}
+Error in line 21:34 mismatched input ';' expecting ','
+Semantic Error: Duplicate class name 'CardAnimalList'
+Error in line 17:6 mismatched input '==' expecting {'=', ';'}
+Semantic Error: Variable 'x' already exists
+Semantic Error: Duplicate class name 'CardAnimalList'
+Error in line 17:6 mismatched input 'true' expecting INTEGER
+Error in line 16:9 extraneous input '5' expecting {''', '"', ';', Name}
+Error in line 17:6 mismatched input 'true' expecting INTEGER
+Error in line 16:9 extraneous input '5' expecting {''', '"', ';', Name}
+Error in line 17:6 mismatched input 'true' expecting INTEGER
+Error in line 26:10 mismatched input 'sssssssssssssssss' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 32:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 35:4 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 14:25 no viable alternative at input 'classMyBindingsextendsBindings'
+Error in line 61:25 no viable alternative at input 'classMyBindingsextendsBindings'
+Error in line 61:25 no viable alternative at input 'classMyBindingsextendsBindings'
+Error in line 61:25 no viable alternative at input 'classMyBindingsextendsBindings'
+Error in line 61:17 no viable alternative at input 'classMyBindingsimplement'
+Error in line 61:11 no viable alternative at input 'classsswqimplement'
+Error in line 61:19 no viable alternative at input 'classsswqextendsBindings'
+Error in line 67:0 mismatched input '@override' expecting {'Get', '}'}
+Error in line 64:21 mismatched input '"' expecting ')'
+Error in line 64:21 mismatched input ''' expecting ')'
+Error in line 64:21 mismatched input '"' expecting ')'
+Error in line 64:21 mismatched input '"' expecting ')'
+Error in line 64:21 mismatched input '"' expecting ')'
+Error in line 64:20 mismatched input '"' expecting ')'
+Error in line 55:14 extraneous input '+' expecting {''', '"', Name}
+Error in line 56:1 extraneous input ')' expecting ','
+Error in line 57:0 mismatched input ']' expecting ')'
+Error in line 55:25 extraneous input ':' expecting {''', '"', Name}
+Error in line 57:28 mismatched input '0' expecting DOUBLE
+Error in line 58:1 mismatched input 'child' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 59:2 mismatched input ',' expecting {'ListView', 'FloatingActionButton', 'appBar', 'ListTile', 'Container', 'Row', 'Column', 'GestureDetector', 'Card', 'Text', 'Scaffold', ']'}
+Error in line 58:2 mismatched input 'color' expecting ')'
+Error in line 60:2 mismatched input ',' expecting ';'
+Error in line 57:30 mismatched input '0' expecting DOUBLE
+Error in line 48:70 mismatched input 'y4ur4ui' expecting Name
+Error in line 48:79 extraneous input ')' expecting ';'
+Error in line 48:70 mismatched input 'y4ur4ui' expecting Name
+Error in line 48:81 extraneous input ';' expecting ')'
+Error in line 48:83 mismatched input ',' expecting ';'
+Error in line 48:82 mismatched input ',' expecting ';'
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Duplicate class name 'CardAnimalList'
+Semantic Error: Duplicate class name 'CardAnimal'
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists
+Semantic Error: Variable 'x' already exists

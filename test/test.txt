@@ -1,0 +1,148 @@
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: CardAnimalList();
+
+    );
+  }
+}
+
+class CardAnimalList extends StatelessWidget {
+int x=5;
+@override
+Widget build(BuildContext context) {
+ return Scaffold(
+  appBar:AppBar(
+    title:Text('The First Screen'),
+),
+body:Column(
+mainAxisAlignment:MainAxisAlignment.center,
+children:[
+Row(
+children:[
+GestureDetector(
+   child:Card(
+     child:Text('Animal'),
+   ),
+   onTap:(){
+     Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Animal"));),
+   },
+ ),
+ GestureDetector(
+    child:Card(
+      child:Text('Planet'),
+    ),
+    onTap:(){
+      Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Planet"));),
+    },
+  ),
+ GestureDetector(
+    child:Card(
+      child:Text('Human'),
+    ),
+    onTap:(){
+      Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Human"));),
+    },
+ ),
+ GestureDetector(
+     child:Card(
+       child:Text('Car'),
+     ),
+     onTap:(){
+       Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Car"));),
+     },
+  ),
+  GestureDetector(
+       child:Card(
+         child:Text('Blue'),
+       ),
+       onTap:(){
+         Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Blue"));),
+       },
+    ),
+],
+),
+Container(
+ width:50,
+ height:5,
+child: Text("Choose One"),
+),
+ Container(
+ width:50,
+ height:5,
+   color:Color.fromRGBO(255,55, 100, 1.0);
+ child:Text("A plus plus please"),
+
+ ),
+],
+),
+);
+}
+}
+
+class CardAnimal extends StatelessWidget {
+int x=5;
+@override
+Widget build(BuildContext context) {
+ return Scaffold(
+  appBar:AppBar(
+    title:Text('The First Screen'),
+),
+body:Column(
+mainAxisAlignment:MainAxisAlignment.center,
+children:[
+Row(
+children:[
+GestureDetector(
+   child:Card(
+     child:Text('Animal'),
+   ),
+   onTap:(){
+     Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Animal"));),
+   },
+ ),
+ GestureDetector(
+    child:Card(
+      child:Text('Planet'),
+    ),
+    onTap:(){
+      Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Planet"));),
+    },
+  ),
+ GestureDetector(
+    child:Card(
+      child:Text('Human'),
+    ),
+    onTap:(){
+      Navigator.push(context,MaterialPageRoute(builder:(context)=>mm("Human"));),
+    },
+ ),
+],
+),
+ Text("Choose One"),
+ Container(
+ width:50,
+ height:10,
+   color:Color.fromRGBO(2,5,6,0.5);
+
+ child:Text("A plus plus please"),
+
+ ),ا
+],
+),
+);
+}
+}
+
+class MyBind implements Bindings {
+@override
+void dependencies() {
+Get.lazyPut( () => mm("sssssss"));
+}
+
+  }
